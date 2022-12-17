@@ -1,0 +1,4 @@
+A01;Fideos;14.9
+A02;Arroz;8.5
+A03;Leche;15.0
+A04;Gaseosa;7.5
